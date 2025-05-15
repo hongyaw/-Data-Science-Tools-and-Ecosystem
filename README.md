@@ -19,5 +19,4 @@ This project provides a brief introduction to essential tools and concepts in th
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/hongyaw/data-science-tools.git
-cd data-science-tools
+https://github.com/hongyaw/data-science-tools.git cd data-science-tools
