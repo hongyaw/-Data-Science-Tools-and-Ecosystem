@@ -19,4 +19,4 @@ This project provides a brief introduction to essential tools and concepts in th
 
 **Clone the repository:**
 ```bash
-https://github.com/hongyaw/data-science-tools.git cd data-science-tools
+[https://github.com/hongyaw/data-science-tools.git cd data-science-tools](https://github.com/hongyaw/-Data-Science-Tools-and-Ecosystem.git)
