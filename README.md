@@ -7,14 +7,14 @@ This project provides a brief introduction to essential tools and concepts in th
 - Basic markdown formatting
 
 ## Code Structure ##
--Markdown formatting
--Data science languages (Python, R, SQL)
--Libraries (Pandas, Matplotlib, Scikit-learn)
--Tools (Jupyter, RStudio, VS Code)
--Arithmetic examples in Python
+- Markdown formatting
+- Data science languages (Python, R, SQL)
+- Libraries (Pandas, Matplotlib, Scikit-learn)
+- Tools (Jupyter, RStudio, VS Code)
+- Arithmetic examples in Python
 
 ## Requirements ##
--Jupyter Notebook (or any compatible interface like JupyterLab or VS Code)
+- Jupyter Notebook (or any compatible interface like JupyterLab or VS Code)
 - Python 3.x
 
 **Clone the repository:**
