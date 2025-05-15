@@ -1,4 +1,4 @@
-****🧠 Data Science Tools and Ecosystem****
+# Data Science Tools and Ecosystem #
 This project provides a brief introduction to essential tools and concepts in the Data Science ecosystem, particularly focusing on:
 - Programming languages
 - Commonly used libraries
@@ -17,7 +17,7 @@ This project provides a brief introduction to essential tools and concepts in th
 -Jupyter Notebook (or any compatible interface like JupyterLab or VS Code)
 - Python 3.x
 
-**Clone the repository: **
+**Clone the repository:**
 ```bash
 git clone https://github.com/hongyaw/data-science-tools.git
 cd data-science-tools
